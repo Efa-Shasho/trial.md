@@ -1,2 +1,2 @@
 # trial.md
-this is the trial
+this is the trial of git
